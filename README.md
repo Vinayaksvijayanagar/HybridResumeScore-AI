@@ -5,7 +5,7 @@
 
 </h1>
 
-## 🌟 Overview
+## Overview
 **HybridResumeScore AI** analyzes resumes using a hybrid ML + rule-engine pipeline.
 
 ### It performs:
@@ -31,13 +31,13 @@ Rule-Based Personal/Education Filtering
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d2ff,100:ff2d95&height=3" width="100%"/>
 
-## ⚡ Core Features
+## Core Features
 
-### 📄 Multi-format Resume Parsing
+### Multi-format Resume Parsing
 PDF · DOCX · TXT
 
  
-### 🧠 Hybrid ML + Rule Engine
+### Hybrid ML + Rule Engine
 - Removes personal and education lines  
 - Validates domain-specific keywords  
 - Applies confidence threshold  
@@ -51,7 +51,7 @@ Experience %<br>
 Overall Score<br>
 
  
-### 📁 Outputs
+###  Outputs
 superclean_sentence_predictions.csv<br>
 superclean_resume_scores.csv
 
@@ -61,7 +61,7 @@ superclean_resume_scores.csv
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2d95,100:fccf31&height=3" width="100%"/>
 
-## 🔧 Pipeline Flow
+##  Pipeline Flow
 Extract text
 
 Split into sentences
@@ -90,7 +90,7 @@ Export CSV results
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:fccf31,100:00d2ff&height=3" width="100%"/>
 
-## 📂 Project Structure
+##  Project Structure
 
  Resume_Score/<br>
 │<br>
@@ -111,7 +111,7 @@ Export CSV results
 
  
 
----
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:2575fc&height=3" width="100%"/>
 ⚙️ Installation
@@ -123,24 +123,24 @@ pip install -r requirements.txt<br>
 Manual install:<br>
 pip install scikit-learn pandas pdfplumber python-docx scipy joblib
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff5f6d,100:ffc371&height=3" width="100%"/>
-🧪 Train the Model<br>
+ Train the Model<br>
 python resume_pipeline.py<br>
 
 Artifacts saved at:<br>
 resume_pipeline_output/resume_pipeline_artifacts.joblib
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0072ff&height=3" width="100%"/>
-🧾 Run Resume Scoring<br>
+Run Resume Scoring<br>
 python resume_inference_superclean.py<br>
 
 Generated files:<br>
 superclean_sentence_predictions.csv<br>
 superclean_resume_scores.csv
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ad7aff,100:00eaff&height=3" width="100%"/>
-📊 Example Output
+ Example Output
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=12HGKmTIl8dfDs6IpCO1Smv-y5iZm6yrq" width="450">
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:11998e,100:38ef7d&height=3" width="100%"/>
 
-<h2 align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" /> </h2> <h3 align="center">   <b>Vinayak S V</b><br> <i>AI/ML · GenAI · NLP · Computer Vision</i> </h3> <p align="center"> <b>Nyukt.AI hiring round project</b> </p> ```
+<h2 align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" /> </h2> <h3 align="center">   <b>Vinayak S V</b><br> <i>AI/ML · GenAI · NLP · Computer Vision</i> </h3> <p align="center"> <b>Nyukt.AI hiring round project</b> </p> 
