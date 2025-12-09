@@ -126,19 +126,17 @@ pip install scikit-learn pandas pdfplumber python-docx scipy joblib
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff5f6d,100:ffc371&height=3" width="100%"/>
 🧪 Train the Model
  
-python resume_pipeline.py
-Artifacts saved at:
+python resume_pipeline.py<br>
+Artifacts saved at:<br>
 
  
 resume_pipeline_output/resume_pipeline_artifacts.joblib
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0072ff&height=3" width="100%"/>
-🧾 Run Resume Scoring
+🧾 Run Resume Scoring<br>
  
-python resume_inference_superclean.py
+python resume_inference_superclean.py<br>
 Generated files:
-
- 
-superclean_sentence_predictions.csv
+superclean_sentence_predictions.csv<br>
 superclean_resume_scores.csv
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ad7aff,100:00eaff&height=3" width="100%"/>
 📊 Example Output
