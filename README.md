@@ -115,7 +115,7 @@ Export CSV results
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:2575fc&height=3" width="100%"/>
-## ⚙️ Installation
+⚙️ Installation
  
 git clone https://github.com/Vinayaksvijayanagar/HybridResumeScore-AI.git<br>
 cd HybridResumeScore-AI<br>
