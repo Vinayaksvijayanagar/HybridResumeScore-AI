@@ -93,24 +93,22 @@ Export CSV results
 
 ## 📂 Project Structure
 
- 
-Resume_Score/
-│
-├── big_resume_training_data.csv
-├── resume_pipeline.py
-├── resume_inference_superclean.py
-│
-├── resume_pipeline_output/
-│   ├── resume_pipeline_artifacts.joblib
-│   ├── resume_pipeline_test_predictions.csv
-│   └── accuracy_comparison.png
-│
-├── resumes/
-│   ├── resume1.pdf
-│   └── resume2.pdf
-│
-└── README.md
-
+ Resume_Score/<br>
+│<br>
+├── big_resume_training_data.csv<br>
+├── resume_pipeline.py<br>
+├── resume_inference_superclean.py<br>
+│<br>
+├── resume_pipeline_output/<br>
+│   ├── resume_pipeline_artifacts.joblib<br>
+│   ├── resume_pipeline_test_predictions.csv<br>
+│   └── accuracy_comparison.png<br>
+│<br>
+├── resumes/<br>
+│   ├── resume1.pdf<br>
+│   └── resume2.pdf<br>
+│<br>
+└── README.md<br>
 
  
 
