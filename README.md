@@ -92,6 +92,7 @@ Export CSV results
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:fccf31,100:00d2ff&height=3" width="100%"/>
 
 ## 📂 Project Structure
+
 Resume_Score/
 │
 ├── big_resume_training_data.csv
@@ -99,15 +100,16 @@ Resume_Score/
 ├── resume_inference_superclean.py
 │
 ├── resume_pipeline_output/
-│ ├── resume_pipeline_artifacts.joblib
-│ ├── resume_pipeline_test_predictions.csv
-│ └── accuracy_comparison.png
+│   ├── resume_pipeline_artifacts.joblib
+│   ├── resume_pipeline_test_predictions.csv
+│   └── accuracy_comparison.png
 │
 ├── resumes/
-│ ├── resume1.pdf
-│ └── resume2.pdf
+│   ├── resume1.pdf
+│   └── resume2.pdf
 │
 └── README.md
+```
 
  
 
