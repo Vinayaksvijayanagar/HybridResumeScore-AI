@@ -143,10 +143,5 @@ superclean_resume_scores.csv
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:11998e,100:38ef7d&height=3" width="100%"/>
-🛠 Customization
-Confidence Rule
- 
-if confidence < 0.60:<br>
-    return "OTHER"<br>
 
 <h2 align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" /> </h2> <h3 align="center"> 🏆 Created by <b>Vinayak S V</b><br> <i>AI/ML Engineer · GenAI · NLP · Computer Vision</i> </h3> <p align="center"> ⭐ <b>If you like this project, please star the repository!</b> ⭐ </p> ```
