@@ -148,12 +148,5 @@ Confidence Rule
  
 if confidence < 0.60:<br>
     return "OTHER"<br>
-Keyword Lists<br>
-Modify ML/NLP/CV/Python keyword sets in the script.
 
-Scoring Formula<br>
-Adjust weight distribution:
-
- 
-ML% · NLP% · Python% · Experience%
 <h2 align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" /> </h2> <h3 align="center"> 🏆 Created by <b>Vinayak S V</b><br> <i>AI/ML Engineer · GenAI · NLP · Computer Vision</i> </h3> <p align="center"> ⭐ <b>If you like this project, please star the repository!</b> ⭐ </p> ```
