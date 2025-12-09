@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#00f2ff;">⚡ HYBRIDRESUMESCORE AI ⚡</h1>
+<h1 align="center" style="color:#00f2ff;"> HYBRIDRESUMESCORE AI </h1>
 <p align="center">
   <b><span style="color:#ff00ff;">Neon ATS Resume Intelligence Engine</span></b><br>
   <i><span style="color:#39ff14;">Hybrid ML + Rule-Based Filtering System</span></i>
@@ -61,7 +61,7 @@ shell
 Copy code
 
 ### 📁 Outputs
-superclean_sentence_predictions.csv
+superclean_sentence_predictions.csv/n
 superclean_resume_scores.csv
 
 yaml
