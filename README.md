@@ -45,11 +45,11 @@ PDF · DOCX · TXT
 - Action verbs improve classification  
 
 ### 📊 Resume Score Metrics
-ML %
-NLP %
-Python %
-Experience %
-Overall Score
+ML %<br>
+NLP %<br>
+Python %<br>
+Experience %<br>
+Overall Score<br>
 
  
 ### 📁 Outputs
