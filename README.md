@@ -145,18 +145,18 @@ superclean_resume_scores.csv
  
 Resume                ML%   NLP%   Python%   Exp%   Overall
 -----------------------------------------------------------
-resume_vinayak.pdf     12%    5%      20%     40%    19.25%
+resume_vinayak.pdf     12%    5%      20%     40%    19.25%<br>
 praveen_resume.pdf      0%    0%       0%      0%     0%
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:11998e,100:38ef7d&height=3" width="100%"/>
 🛠 Customization
 Confidence Rule
  
-if confidence < 0.60:
-    return "OTHER"
-Keyword Lists
+if confidence < 0.60:<br>
+    return "OTHER"<br>
+Keyword Lists<br>
 Modify ML/NLP/CV/Python keyword sets in the script.
 
-Scoring Formula
+Scoring Formula<br>
 Adjust weight distribution:
 
  
