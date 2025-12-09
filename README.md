@@ -93,6 +93,7 @@ Export CSV results
 
 ## 📂 Project Structure
 
+ 
 Resume_Score/
 │
 ├── big_resume_training_data.csv
@@ -109,7 +110,7 @@ Resume_Score/
 │   └── resume2.pdf
 │
 └── README.md
-```
+
 
  
 
