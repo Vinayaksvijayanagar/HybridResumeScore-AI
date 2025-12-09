@@ -21,10 +21,10 @@ ML · NLP · Computer Vision · Data Engineering · Backend · Experience · Oth
  
 
 ### Hybrid Pipeline
-TF-IDF + Logistic Regression
-Action Verb Detection
-Keyword Validation
-Confidence Thresholding
+TF-IDF + Logistic Regression<br>
+Action Verb Detection<br>
+Keyword Validation<br>
+Confidence Thresholding<br>
 Rule-Based Personal/Education Filtering
 
  
