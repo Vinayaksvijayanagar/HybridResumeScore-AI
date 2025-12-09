@@ -114,14 +114,12 @@ Resume_Score/
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:2575fc&height=3" width="100%"/>
-
 ## ⚙️ Installation
-``` 
-git clone https://github.com/https://github.com/Vinayaksvijayanagar/HybridResumeScore-AI.git
+ 
+git clone https://github.com/Vinayaksvijayanagar/HybridResumeScore-AI.git
 cd HybridResumeScore-AI
 pip install -r requirements.txt
 Manual install:
-
  
 pip install scikit-learn pandas pdfplumber python-docx scipy joblib
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff5f6d,100:ffc371&height=3" width="100%"/>
@@ -143,7 +141,6 @@ superclean_sentence_predictions.csv
 superclean_resume_scores.csv
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ad7aff,100:00eaff&height=3" width="100%"/>
 📊 Example Output
-markdown
  
 Resume                ML%   NLP%   Python%   Exp%   Overall
 -----------------------------------------------------------
@@ -163,5 +160,4 @@ Adjust weight distribution:
 
  
 ML% · NLP% · Python% · Experience%
-
-<h2 align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" /> </h2> <h3 align="center"> 🏆 Created by <b>Vinayak S V</b><br> <i>AI/ML Engineer · GenAI · NLP · Computer Vision</i> </h3> <p align="center"> ⭐ <b>If you like this project, please star the repository!</b> ⭐ </p> 
+<h2 align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" /> </h2> <h3 align="center"> 🏆 Created by <b>Vinayak S V</b><br> <i>AI/ML Engineer · GenAI · NLP · Computer Vision</i> </h3> <p align="center"> ⭐ <b>If you like this project, please star the repository!</b> ⭐ </p> ```
