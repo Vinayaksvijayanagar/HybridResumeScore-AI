@@ -1,51 +1,25 @@
-<h1 align="center">⚡ HYBRIDRESUMESCORE AI ⚡</h1>
 <p align="center">
-  <b>AI-powered ATS Resume Classification & Scoring System</b><br>
-  <i>Hybrid ML + Rule-Based Pipeline for Ultra-Clean Resume Insights</i>
+  <img src="https://fonts.gstatic.com/s/i/materialiconsoutlined/electric_bolt/v15/24px.svg" width="80">
+</p>
+
+<h1 align="center">
+  <span style="color:#00f2ff;">⚡ HYBRIDRESUMESCORE AI ⚡</span>
+</h1>
+
+<p align="center">
+  <b><span style="color:#ff00ff;">Neon-Powered ATS Resume Intelligence</span></b><br>
+  <i><span style="color:#39ff14;">Hybrid ML + Rule-Based Deep Filtering Engine</span></i>
 </p>
 
 ---
 
-## 🟦 **What is HybridResumeScore AI?**
-`HybridResumeScore AI` automatically analyzes resumes, classifies every sentence into skill categories  
-(**ML, NLP, CV, Data Engineering, Backend, Experience, Other**) and generates a professional **ATS-style resume score** for AI/ML roles.
+## ✨ <span style="color:#00f2ff;">Overview</span>
+**HybridResumeScore AI** is a futuristic resume analytics engine that **glows with intelligence**.
 
-It uses a **Hybrid Pipeline**:
-✔ TF-IDF + Logistic Regression
-✔ Action Verb Detection
-✔ Domain Keyword Validation
-✔ Confidence Thresholding
-✔ Rule-Based Personal/Education Filters
+It:
+- Classifies each resume sentence  
+- Filters noise using AI + rules  
+- Computes AI/ML relevance scores  
+- Generates glowing-clean CSV outputs  
 
-This produces **extremely accurate**, noise-free classification perfect for hiring platforms, HR teams, and automation tools.
-
----
-
-## 🎯 **Core Features**
-
-### 🧠 ML + Rule Hybrid Classifier
-- Removes personal info  
-- Filters education lines  
-- Blocks false ML/NLP/CV flags  
-- Uses probability thresholds for clean output  
-
-### 📄 Multi-format Resume Parsing
-
-### 🧩 Sentence-Level Skill Categorization
-ML / Modeling
-NLP
-Computer Vision
-Backend
-Data Engineering
-Experience
-Other
-
-### 📊 Resume Scoring Engine
-Generates metrics like:
-
-ML Match %
-NLP Match %
-Python Skill %
-Experience Score %
-Overall Resume Score
-
+Skill Classes:
