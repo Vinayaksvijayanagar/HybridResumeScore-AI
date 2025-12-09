@@ -144,4 +144,4 @@ superclean_resume_scores.csv
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:11998e,100:38ef7d&height=3" width="100%"/>
 
-<h2 align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" /> </h2> <h3 align="center"> 🏆 Created by <b>Vinayak S V</b><br> <i>AI/ML Engineer · GenAI · NLP · Computer Vision</i> </h3> <p align="center"> ⭐ <b>If you like this project, please star the repository!</b> ⭐ </p> ```
+<h2 align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" /> </h2> <h3 align="center">   <b>Vinayak S V</b><br> <i>AI/ML · GenAI · NLP · Computer Vision</i> </h3> <p align="center"> <b>Nyukt.AI hiring round project</b> </p> ```
