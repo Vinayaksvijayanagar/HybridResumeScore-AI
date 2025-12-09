@@ -120,8 +120,8 @@ Export CSV results
 git clone https://github.com/Vinayaksvijayanagar/HybridResumeScore-AI.git<br>
 cd HybridResumeScore-AI<br>
 pip install -r requirements.txt<br>
+
 Manual install:
- 
 pip install scikit-learn pandas pdfplumber python-docx scipy joblib
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff5f6d,100:ffc371&height=3" width="100%"/>
 🧪 Train the Model
