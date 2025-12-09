@@ -1,27 +1,28 @@
-<h1 align="center">🚀 HybridResumeScore AI</h1>
-<p align="center">
-  <b>ATS-Grade Resume Intelligence Engine</b><br>
-  <i>Hybrid ML + Rule-Based System for Accurate Skill Classification</i>
-</p>
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=120&color=gradient&text=HybridResumeScore%20AI&fontAlign=50&fontSize=45&textBg=false&desc=ATS%20Resume%20Classification%20%26%20Scoring%20Engine&descAlignY=75&animation=fadeIn" />
+</h1>
 
 ---
 
-## 🔥 Overview
-**HybridResumeScore AI** analyzes resumes with high precision using a clean hybrid pipeline.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%"/>
+
+## 🌟 Overview
+**HybridResumeScore AI** is a modern resume intelligence engine that blends  
+**Machine Learning + Rule-Based Logic** for clean, ATS-ready resume scoring.
 
 ### It performs:
 - Sentence-level skill classification  
-- AI + rule-based filtering  
+- AI + rule-based post-processing  
 - ATS-style scoring  
-- Export of structured CSV reports  
+- Export of clean CSV reports  
 
-### Skill Categories:
+### Skill Categories
 ML · NLP · Computer Vision · Data Engineering · Backend · Experience · Other
 
 shell
 Copy code
 
-### Hybrid Pipeline:
+### Hybrid Pipeline
 TF-IDF + Logistic Regression
 Action Verb Detection
 Keyword Validation
@@ -33,21 +34,23 @@ Copy code
 
 ---
 
-## ⭐ Core Features
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d2ff,100:ff2d95&height=3" width="100%"/>
 
-### 📄 Multi-format Resume Parsing
-Supports: PDF · DOCX · TXT
+## ⚡ Core Features
+
+### 📄 Multi-format Resume Parsing  
+PDF · DOCX · TXT
 
 markdown
 Copy code
 
 ### 🧠 Hybrid ML + Rule Engine
 - Removes personal/education lines  
-- Validation with domain keywords  
-- Confidence cutoff (<0.60)  
-- Action verbs improve classification  
+- Validates domain-specific keywords  
+- Applies confidence cutoff  
+- Boosts accuracy using action verbs  
 
-### 📊 Resume Scoring Metrics
+### 📊 Resume Score Metrics
 ML %
 NLP %
 Python %
@@ -57,7 +60,7 @@ Overall Score
 shell
 Copy code
 
-### 📁 Outputs
+### 📁 Outputs Generated
 superclean_sentence_predictions.csv
 superclean_resume_scores.csv
 
@@ -65,6 +68,8 @@ yaml
 Copy code
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2d95,100:fccf31&height=3" width="100%"/>
 
 ## 🔧 Pipeline Flow
 Extract text from resume
@@ -75,24 +80,26 @@ Remove personal/education lines
 
 TF-IDF vectorization
 
-Add action-verb features
+Inject action-verb features
 
 ML model predicts category
 
-Apply rule-based corrections
+Apply rule-based filters
 
-Assign final label
+Assign final category
 
-Compute metrics
+Compute metrics (ML%, NLP%, Python%, Exp%)
 
-Generate final score
+Generate overall ATS score
 
-Save CSV reports
+Export CSV results
 
 yaml
 Copy code
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fccf31,100:00d2ff&height=3" width="100%"/>
 
 ## 📂 Project Structure
 Resume_Score/
@@ -117,6 +124,8 @@ Copy code
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:2575fc&height=3" width="100%"/>
+
 ## ⚙️ Installation
 ```bash
 git clone https://github.com/YOUR_USERNAME/HybridResumeScore-AI.git
@@ -127,6 +136,7 @@ Manual install:
 bash
 Copy code
 pip install scikit-learn pandas pdfplumber python-docx scipy joblib
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff5f6d,100:ffc371&height=3" width="100%"/>
 🧪 Train the Model
 bash
 Copy code
@@ -136,15 +146,17 @@ Artifacts saved at:
 bash
 Copy code
 resume_pipeline_output/resume_pipeline_artifacts.joblib
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0072ff&height=3" width="100%"/>
 🧾 Run Resume Scoring
 bash
 Copy code
 python resume_inference_superclean.py
-Outputs:
+Generated files:
 
 Copy code
 superclean_sentence_predictions.csv
 superclean_resume_scores.csv
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ad7aff,100:00eaff&height=3" width="100%"/>
 📊 Example Output
 markdown
 Copy code
@@ -152,6 +164,7 @@ Resume                ML%   NLP%   Python%   Exp%   Overall
 -----------------------------------------------------------
 resume_vinayak.pdf     12%    5%      20%     40%    19.25%
 praveen_resume.pdf      0%    0%       0%      0%     0%
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:11998e,100:38ef7d&height=3" width="100%"/>
 🛠 Customization
 Confidence Threshold
 python
@@ -159,12 +172,12 @@ Copy code
 if confidence < 0.60:
     return "OTHER"
 Keyword Lists
-You can edit ML/NLP/CV/Python keyword lists inside the inference script.
+Adjust ML/NLP/CV/Python keyword sets inside the inference script.
 
 Scoring Formula
-Adjust weight distribution:
+You may modify weight distribution:
 
 shell
 Copy code
 ML% · NLP% · Python% · Experience%
-<h3 align="center">🔹 Created by <b>Vinayak S V</b></h3> <p align="center"> AI/ML Engineer • GenAI • NLP • Computer Vision <br> ⭐ If this project helps you, please star the repository! </p> ```
+<h2 align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" /> </h2> <h3 align="center"> 🏆 Created by <b>Vinayak S V</b><br> <i>AI/ML Engineer • GenAI • NLP • Computer Vision</i> </h3> <p align="center"> ⭐ <b>If you like this project, please star the repository!</b> ⭐ </p> ```
