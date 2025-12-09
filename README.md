@@ -43,7 +43,7 @@ PDF · DOCX · TXT
 - Applies confidence threshold  
 - Action verbs improve classification  
 
-### 📊 Resume Score Metrics
+###  Resume Score Metrics
 ML %<br>
 NLP %<br>
 Python %<br>
@@ -114,7 +114,7 @@ Export CSV results
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:2575fc&height=3" width="100%"/>
-⚙️ Installation
+sInstallation
  
 git clone https://github.com/Vinayaksvijayanagar/HybridResumeScore-AI.git<br>
 cd HybridResumeScore-AI<br>
