@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=120&color=gradient&text=HybridResumeScore%20AI&fontAlign=50&fontSize=45&textBg=false&desc=ATS%20Resume%20Classification%20%26%20Scoring%20Engine&descAlignY=75&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=120&color=gradient&text=HybridResumeScore%20AI&fontAlign=50&fontSize=45&animation=fadeIn" />
 </h1>
 
 ---
@@ -7,12 +7,11 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%"/>
 
 ## 🌟 Overview
-**HybridResumeScore AI** is a modern resume intelligence engine that blends  
-**Machine Learning + Rule-Based Logic** for clean, ATS-ready resume scoring.
+**HybridResumeScore AI** analyzes resumes using a hybrid ML + rule-engine pipeline.
 
 ### It performs:
 - Sentence-level skill classification  
-- AI + rule-based post-processing  
+- AI + rule-based filtering  
 - ATS-style scoring  
 - Export of clean CSV reports  
 
@@ -38,17 +37,17 @@ Copy code
 
 ## ⚡ Core Features
 
-### 📄 Multi-format Resume Parsing  
+### 📄 Multi-format Resume Parsing
 PDF · DOCX · TXT
 
 markdown
 Copy code
 
 ### 🧠 Hybrid ML + Rule Engine
-- Removes personal/education lines  
+- Removes personal and education lines  
 - Validates domain-specific keywords  
-- Applies confidence cutoff  
-- Boosts accuracy using action verbs  
+- Applies confidence threshold  
+- Action verbs improve classification  
 
 ### 📊 Resume Score Metrics
 ML %
@@ -60,7 +59,7 @@ Overall Score
 shell
 Copy code
 
-### 📁 Outputs Generated
+### 📁 Outputs
 superclean_sentence_predictions.csv
 superclean_resume_scores.csv
 
@@ -72,7 +71,7 @@ Copy code
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2d95,100:fccf31&height=3" width="100%"/>
 
 ## 🔧 Pipeline Flow
-Extract text from resume
+Extract text
 
 Split into sentences
 
@@ -80,7 +79,7 @@ Remove personal/education lines
 
 TF-IDF vectorization
 
-Inject action-verb features
+Add action-verb features
 
 ML model predicts category
 
@@ -88,9 +87,9 @@ Apply rule-based filters
 
 Assign final category
 
-Compute metrics (ML%, NLP%, Python%, Exp%)
+Compute metrics
 
-Generate overall ATS score
+Generate overall score
 
 Export CSV results
 
@@ -166,18 +165,18 @@ resume_vinayak.pdf     12%    5%      20%     40%    19.25%
 praveen_resume.pdf      0%    0%       0%      0%     0%
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:11998e,100:38ef7d&height=3" width="100%"/>
 🛠 Customization
-Confidence Threshold
+Confidence Rule
 python
 Copy code
 if confidence < 0.60:
     return "OTHER"
 Keyword Lists
-Adjust ML/NLP/CV/Python keyword sets inside the inference script.
+Modify ML/NLP/CV/Python keyword sets in the script.
 
 Scoring Formula
-You may modify weight distribution:
+Adjust weight distribution:
 
 shell
 Copy code
 ML% · NLP% · Python% · Experience%
-<h2 align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" /> </h2> <h3 align="center"> 🏆 Created by <b>Vinayak S V</b><br> <i>AI/ML Engineer • GenAI • NLP • Computer Vision</i> </h3> <p align="center"> ⭐ <b>If you like this project, please star the repository!</b> ⭐ </p> ```
+<h2 align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" /> </h2> <h3 align="center"> 🏆 Created by <b>Vinayak S V</b><br> <i>AI/ML Engineer · GenAI · NLP · Computer Vision</i> </h3> <p align="center"> ⭐ <b>If you like this project, please star the repository!</b> ⭐ </p> 
