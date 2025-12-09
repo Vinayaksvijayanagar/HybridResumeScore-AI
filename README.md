@@ -138,11 +138,10 @@ superclean_sentence_predictions.csv<br>
 superclean_resume_scores.csv
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ad7aff,100:00eaff&height=3" width="100%"/>
 📊 Example Output
- 
-Resume                ML%   NLP%   Python%   Exp%   Overall
------------------------------------------------------------
-resume_vinayak.pdf     12%    5%      20%     40%    19.25%<br>
-praveen_resume.pdf      0%    0%       0%      0%     0%
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=12HGKmTIl8dfDs6IpCO1Smv-y5iZm6yrq" width="450">
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:11998e,100:38ef7d&height=3" width="100%"/>
 🛠 Customization
 Confidence Rule
