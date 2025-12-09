@@ -1,11 +1,13 @@
 <h1 align="center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f29,100:1e3c72&height=140&section=footer"/>
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:6a00ff&height=160&section=footer&text=HybridResumeScore%20AI&fontColor=ffffff&fontSize=30"/>
 
 </h1>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f29,100:1e3c72&height=140&section=footer"/>
+
 
 ## 🌟 Overview
 **HybridResumeScore AI** analyzes resumes using a hybrid ML + rule-engine pipeline.
