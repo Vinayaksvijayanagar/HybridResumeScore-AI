@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=120&color=gradient&text=HybridResumeScore%20AI&fontAlign=50&fontSize=45&animation=fadeIn" />
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f29,100:1e3c72&height=140&section=footer"/>
+
 </h1>
 
 ---
